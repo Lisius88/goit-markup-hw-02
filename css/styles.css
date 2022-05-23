@@ -77,12 +77,14 @@ header {
 }
 /* Footer */
 .adress {
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: var(--background-main);
 }
 .mail-tel {
+        font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
